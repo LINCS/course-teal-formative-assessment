@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="6" moduleid="381" modulename="wiki" contextid="642">
+  <wiki id="6">
+    <name>Practicing Feedback Writing</name>
+    <intro>&lt;p&gt;What are some "timely, specific, and task-oriented" points of feedback that you might provide to the author of this piece of writing? Take this opportunity to see a range of feedback ideas from your peers. &lt;span style="color: #ff0000; font-weight: bold;"&gt;Write your comments exactly as if you were writing on the student's paper!&lt;/span&gt; (Don't miss this chance to practice feedback!)&lt;br /&gt;&lt;br /&gt;Click on the &lt;span style="font-weight: bold;"&gt;Edit &lt;/span&gt;tab to add your ideas. Be sure to include your name in parentheses after your addition.&lt;br /&gt;&lt;img style="width: 603px; height: 452px;" title="Sample essay" border="0" hspace="0" alt="Sample essay" src="@@PLUGINFILE@@/Sample_essay_2.jpg" complete="true" /&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timecreated>1377117784</timecreated>
+    <timemodified>1473687166</timemodified>
+    <firstpagetitle>First Page</firstpagetitle>
+    <wikimode>collaborative</wikimode>
+    <defaultformat>html</defaultformat>
+    <forceformat>1</forceformat>
+    <editbegin>0</editbegin>
+    <editend>0</editend>
+    <subwikis>
+    </subwikis>
+  </wiki>
+</activity>

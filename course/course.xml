@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="12" contextid="189">
+  <shortname>Formative Assessment</shortname>
+  <fullname>Formative Assessment</fullname>
+  <idnumber></idnumber>
+  <summary></summary>
+  <summaryformat>1</summaryformat>
+  <format>topics</format>
+  <showgrades>1</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1367553600</startdate>
+  <marker>0</marker>
+  <maxbytes>262144000</maxbytes>
+  <legacyfiles>2</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang></lang>
+  <theme>lincs</theme>
+  <timecreated>1367605100</timecreated>
+  <timemodified>1412024062</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>8</numsections>
+  <hiddensections>0</hiddensections>
+  <coursedisplay>0</coursedisplay>
+  <category id="18">
+    <name>508 Testing</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+</course>

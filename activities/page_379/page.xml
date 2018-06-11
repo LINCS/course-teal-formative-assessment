@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="62" moduleid="379" modulename="page" contextid="640">
+  <page id="62">
+    <name>Presentation: Teacher Feedback Writing [Video]</name>
+    <intro>&lt;p&gt;What is the role of teacher feedback in adult writers' development and how can we learn to do it better?&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;" size="3"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;What is the role of teacher feedback in adult writers' development and how can we learn to do it better? View the presentation below for research on teacher feedback and pointers, tips, and activities to help you fulfill this important teaching task.&lt;/span&gt; &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;" size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: medium;" size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;object width="640" height="480"&gt;&lt;param name="movie" value="//www.youtube.com/v/BIbfi7IMQeY?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed src="https://www.youtube.com/v/BIbfi7IMQeY?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: medium;" size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: medium;" size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: small; font-family: arial, helvetica, sans-serif;" size="3"&gt;[&lt;a title="Teacher Feedback Transcript" href="@@PLUGINFILE@@/Formative_Assessment/Teacher_Feedback/TEAL_Center_Teacher_Feedback-1_powerpoint_with_transcript_v2.pdf" target="_blank"&gt;Transcript of Presentation&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: xx-small;" size="1"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div style="text-align: left;"&gt;&lt;span style="font-size: xx-small;" size="1"&gt;[The video content presented here requires JavaScript to be enabled and the latest version of the Adobe Flash Player. If you do not have the latest version, please update Adobe Flash Player by downloading it here: &lt;a href="https://get.adobe.com/flashplayer/" title="Adobe Flash Player" target="_blank"&gt;https://get.adobe.com/flashplayer/&lt;/a&gt;]&lt;/span&gt;&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>10</revision>
+    <timemodified>1518120781</timemodified>
+  </page>
+</activity>

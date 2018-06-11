@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="60" moduleid="377" modulename="page" contextid="638">
+  <page id="60">
+    <name>Presentation: Formative Assessment</name>
+    <intro>&lt;p&gt;Find out how to clarify and hone this element of your teaching in ways that strengthen differentiated instruction, universal design for learning, and self-regulated learning.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;Formative assessment goes hand-in-hand with lesson planning. Find out how to refine your use of formative assessment strategies in your teaching in ways that strengthen differentiated instruction, universal design for learning, and self-regulated learning. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;object width="640" height="480"&gt;&lt;param name="movie" value="//www.youtube.com/v/x30_LuUgWao?hl=en_US&amp;amp;version=3" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed src="https://www.youtube.com/v/x30_LuUgWao?hl=en_US&amp;amp;version=3" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;div style="text-align: center;"&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div style="text-align: center;"&gt;[&lt;a title="Formative Assesment Transcript" href="@@PLUGINFILE@@/Formative_Assessment/Main/TEAL_Center_Formative_Assessment_Main_macRev_v2.pdf" target="_blank"&gt;Transcript of Presentation&lt;/a&gt;]&lt;/div&gt;
+&lt;div style="text-align: left;" align="center"&gt;&lt;br /&gt;&lt;span style="font-weight: bold;"&gt;Essential questions&lt;/span&gt; are mentioned in the presentation, &lt;a title="Essential questions" href="@@PLUGINFILE@@/Essential_Questions.pdf" target="_self"&gt;download a list&lt;/a&gt; of those questions here.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;"&gt;Writing-to-learn prompts&lt;/span&gt; are listed in the presentation, &lt;a title="Writing to Learn" href="@@PLUGINFILE@@/Writing_to_Learn_Prompts.pdf" target="_self"&gt;download a pdf file&lt;/a&gt; of those here.&lt;br /&gt;&lt;br /&gt;The CAST article, &lt;a title="Getting from Here to There" href="http://www.udlcenter.org/resource_library/articles/gps" target="_top"&gt;Getting from Here to There&lt;/a&gt;, is referenced in the presentation and also in the UDL course. Keep in mind the UDL principles as you "calculate a new route" based on students' understanding.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: xx-small;" size="1"&gt;[The video content presented here requires JavaScript to be enabled and the latest version of the Adobe Flash Player. If you do not have the latest version, please update Adobe Flash Player by downloading it here: &lt;a href="https://get.adobe.com/flashplayer/" title="Adobe Flash Player" target="_blank"&gt;https://get.adobe.com/flashplayer/&lt;/a&gt;]&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1518120551</timemodified>
+  </page>
+</activity>

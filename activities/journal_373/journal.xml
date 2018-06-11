@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="9" moduleid="373" modulename="journal" contextid="634">
+  <journal id="9">
+    <name>Rate Your Knowledge: What do you know about Formative Assessment?</name>
+    <intro>&lt;p&gt;Let us know what &lt;span style="font-style: italic;"&gt;you&lt;/span&gt; know about Formative Assessment. Add a journal entry (about 3 sentences) about your understanding of Formative Assessment, and tell us if you consider yourself a...&lt;br /&gt;- Formative Assessment Expert--You apply the principles of formative assessment to your teaching every day;&lt;br /&gt;- Formative Assessment Novice--You consider the principles of formative assessment and are learning more about it all the time;&lt;br /&gt;- Formative Assessment Newbie--The term &lt;em&gt;formative assessment&lt;/em&gt; and the formative assessment guidelines are still new to you.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <days>0</days>
+    <grade>-4</grade>
+    <timemodified>1473685055</timemodified>
+    <entries>
+    </entries>
+  </journal>
+</activity>

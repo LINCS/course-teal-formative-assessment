@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="80" moduleid="369" modulename="forum" contextid="630">
+  <forum id="80">
+    <type>general</type>
+    <name>How Do You Check for Understanding?</name>
+    <intro>Throughout this course, you will find several ideas and strategies for checking student understanding and for using informal assessments of student learning. Try some of these ideas and tell us about your experience: Was it successful? In what way(s)? How did your students receive the activity? Did they like it? Did the activity help you learn something you wouldn't have otherwise known about your students' understanding? Did this information help you to modify your instruction to help students master the skill or content you were teaching? </intro>
+    <introformat>0</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>0</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>1</maxattachments>
+    <forcesubscribe>2</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1473684972</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>0</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>1</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+  </forum>
+</activity>

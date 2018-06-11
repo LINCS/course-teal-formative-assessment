@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="61" moduleid="378" modulename="page" contextid="639">
+  <page id="61">
+    <name>Optional readings</name>
+    <intro>&lt;p&gt;Check out these additional articles on assessment in the classroom if you are interested, or save them for later.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;div style="text-align: left; direction: ltr;"&gt;Check out these additional articles on assessment in the classroom, if you are interested, or save them for later review. We have included them here so you can pursue your interests. &lt;a title="Assignment 3" href="$@ASSIGNVIEWBYID*620@$" target="_blank"&gt;Assignment 3&lt;/a&gt; asks you to read and reflect on two or three of these articles, so choose that assignment if you enjoy reading about the research that supports the strategies presented in this course!&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;- The list of &lt;a title="Essential Questions" href="@@PLUGINFILE@@/Essential_Questions.pdf" target="_blank"&gt;Essential Questions&lt;/a&gt;&lt;/div&gt;
+&lt;div style="text-align: left; direction: ltr;"&gt; &lt;/div&gt;
+&lt;div style="text-align: left; direction: ltr;"&gt;- &lt;a title="The Concept of Formative Assessment" href="@@PLUGINFILE@@/Formative_Assessment/The_Concept_of_Formative_Assessment-1.pdf" target="_blank"&gt;The Concept of Formative Assessment (Boston, 2002)&lt;/a&gt;&lt;/div&gt;
+&lt;div style="text-align: left; direction: ltr;"&gt;&lt;a href="@@PLUGINFILE@@/Formative_Assessment/The_Concept_of_Formative_Assessment-1.pdf" target="_top"&gt;&lt;/a&gt;&lt;br /&gt;- &lt;a title="Formative Assessment and Next Generation" href="@@PLUGINFILE@@/Formative_Assessment_Next_Generation_2010.pdf" target="_blank"&gt;Formative Assessment and Next-Generation Assessment Systems: Are We Losing an Opportunity? (Heritage, 2010)&lt;/a&gt;&lt;/div&gt;
+&lt;div style="text-align: left; direction: ltr;"&gt;&lt;a href="@@PLUGINFILE@@/Formative_Assessment_Next_Generation_2010.pdf" target="_top"&gt;&lt;/a&gt;&lt;br /&gt;- &lt;a title="Attributes of Effective Formative Assessment" href="@@PLUGINFILE@@/Attributes_of_Effective_2008.pdf" target="_blank"&gt;Attributes Of Effective Formative Assessment (Council of Chief State School Officers, 2008)&lt;/a&gt;&lt;/div&gt;
+&lt;div style="text-align: left; direction: ltr;"&gt;&lt;a href="@@PLUGINFILE@@/Attributes_of_Effective_2008.pdf" target="_top"&gt;&lt;/a&gt;&lt;br /&gt;- &lt;a title="Formative Assessment Examples" href="@@PLUGINFILE@@/Formative_Assessment_Examples_2008.pdf" target="_blank"&gt;Formative Assessment: Examples of Practice (Council of Chief State School Officers, 2008)&lt;/a&gt;&lt;/div&gt;
+&lt;div style="text-align: left; direction: ltr;"&gt; &lt;/div&gt;
+&lt;div style="text-align: left; direction: ltr;"&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: small;"&gt;- &lt;a title="A Primer Diagnostic, Formative, &amp;amp; Summative Assessment" href="@@PLUGINFILE@@/A%20Primer_%20Diagnostic%2C%20Formative%2C%20%20Summative%20Assessment.pdf" target="_blank"&gt;&lt;span size="3"&gt;&lt;span face="Calibri"&gt;A Primer: Diagnostic, Formative, &amp;amp; Summative Assessment&lt;/span&gt;&lt;/span&gt; &lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div style="text-align: left; direction: ltr;"&gt;&lt;/div&gt;
+&lt;div style="text-align: left; direction: ltr;"&gt;&lt;/div&gt;
+&lt;div style="text-align: left; direction: ltr;"&gt;__________________________&lt;/div&gt;
+&lt;div style="text-align: left; direction: ltr;"&gt;&lt;span lang="EN" style="font-size: x-small;"&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div style="text-align: left; direction: ltr;"&gt;&lt;span lang="EN" style="font-size: x-small; font-family: arial, helvetica, sans-serif;"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html" target="_blank"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/span&gt;&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>7</revision>
+    <timemodified>1488400971</timemodified>
+  </page>
+</activity>

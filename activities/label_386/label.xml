@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="99" moduleid="386" modulename="label" contextid="647">
+  <label id="99">
+    <name>Reflection</name>
+    <intro>&lt;h4&gt;&lt;span style="color: #000000; font-family: verdana,tahoma,arial,serif; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 22px; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: #ffffff; font-size: medium; display: inline ! important; float: none;"&gt;&lt;br /&gt;&lt;span style="font-size: small;"&gt;&lt;strong&gt;Reflection&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/h4&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1389308131</timemodified>
+  </label>
+</activity>

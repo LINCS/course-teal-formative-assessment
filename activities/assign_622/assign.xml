@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="40" moduleid="622" modulename="assign" contextid="937">
+  <assign id="40">
+    <name>Assignment #2: Reflect on your Feedback Practices</name>
+    <intro>&lt;p&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: small;" size="3"&gt;In the presentation Teacher Feedback, we learned how powerful feedback can be if it is timely, specific, and task-oriented.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: small;" size="3"&gt;Use this assignment to reflect on your feedback practices and how your students respond. Choose one of the following methods:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;" size="3"&gt;Collect student writing that incorporates feedback you had given previously to students. Now that you've learned about formative assessment, identify whether you might make changes in your feedback. Scan the student writing (black out the students' names) and upload them with your reflection.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;" size="3"&gt;&lt;span face="Calibri"&gt;Collect a student math assignment that incorporates feedback you had given previously to students. Now that you've learned about formative assessment, identify whether you might make changes in your feedback. Scan the students’ work (black out the students' names) and upload them with your reflection.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: small;" size="3"&gt;&lt;/span&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;" size="3"&gt;&lt;span face="Calibri"&gt;Refer to this &lt;a title="Formative Assessment Rubric" href="@@PLUGINFILE@@/TEAL%20_6_Formative%20Assessment%20Rubric_6-20-2013.doc" target="_blank"&gt;rubric&lt;/a&gt; which is based on the 5 Proficiency Strands identified in the National Research Council report, &lt;i&gt;Adding It Up&lt;/i&gt;.  You can adapt the rubric to include more measures of proficiency as you see necessary.  The “Evidence Observed” column is where you will list specific skills and knowledge that you saw your student(s) demonstrate.  The “Extent to Which Evidence is Present” is the degree to which you saw the student(s) demonstrate their skills and knowledge.  If they only did something one time, that might garner a “1,” but if they did it throughout the class, that might garner a “3” or “4.”  After you collect this information, convey to the student(s) what you learned through your observations and data collection. How did that process go? What did you learn about providing feedback?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: small;" size="3"&gt;Schedule independent consultations with students. Ask them if you may audio record the sessions for your own use. Use a tape recorder or digital recorder (your phone? mp3 player? iPod?). Listen to the recordings and reflect on your feedback. What did you do well? What did you miss? What do you want to remember to try next time?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: small;" size="3"&gt;Ask a colleague at your program to work with you so that you can provide each other with feedback on your teaching. Observe in each others' classrooms and provide feedback and reflection on questioning techniques (&lt;a title="Essential Questions" href="@@PLUGINFILE@@/Essential_Questions.pdf" target="_blank"&gt;see the list&lt;/a&gt;), informal feedback, or consultations with students.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: small;" size="3"&gt;Write a two- to three-paragraph reflection on what you did, what you learned, how you saw the students responding, and what you would like to change and refine in your practice.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>1</submissiondrafts>
+    <sendnotifications>1</sendnotifications>
+    <sendlatenotifications>1</sendlatenotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1527024665</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="251">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="252">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="253">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="254">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="255">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="256">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="257">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1971">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1972">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+    </plugin_configs>
+  </assign>
+</activity>

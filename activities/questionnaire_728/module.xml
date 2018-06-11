@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module id="728" version="2014041802">
+  <modulename>questionnaire</modulename>
+  <sectionid>256</sectionid>
+  <sectionnumber>6</sectionnumber>
+  <idnumber></idnumber>
+  <added>1302035869</added>
+  <score>0</score>
+  <indent>0</indent>
+  <visible>1</visible>
+  <visibleold>1</visibleold>
+  <groupmode>0</groupmode>
+  <groupingid>0</groupingid>
+  <groupmembersonly>0</groupmembersonly>
+  <completion>2</completion>
+  <completiongradeitemnumber>$@NULL@$</completiongradeitemnumber>
+  <completionview>0</completionview>
+  <completionexpected>0</completionexpected>
+  <availablefrom>0</availablefrom>
+  <availableuntil>0</availableuntil>
+  <showavailability>0</showavailability>
+  <showdescription>0</showdescription>
+  <availability_info>
+  </availability_info>
+</module>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="102" moduleid="623" modulename="page" contextid="938">
+  <page id="102">
+    <name>Presentation: Teacher Feedback Math [Video]</name>
+    <intro>&lt;p&gt;What is the role of teacher feedback and how can we learn to do it better?&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;" size="3"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;View the presentation below for research on teacher feedback and pointers, tips, and activities to help you fulfill this important teaching task&lt;/span&gt;. &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;" size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;" size="3"&gt; &lt;/span&gt;&lt;embed src="https://www.youtube.com/v/FfV6XZO2rqc?version=3&amp;amp;hl=en_US&amp;amp;rel=0" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true" style="text-align: center; line-height: 1.231;" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: medium;" size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: medium;" size="3"&gt;[&lt;a title="Math Teacher Feedback Math Transcript" href="@@PLUGINFILE@@/TEAL_6_Formative%20Assessment%20PPT_8-5-13_macRev-RASRev.pdf" target="_blank"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Transcript Presentation&lt;/span&gt;&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: xx-small;" size="1"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div style="text-align: left;"&gt;&lt;span style="font-size: xx-small;" size="1"&gt;[The video content presented here requires JavaScript to be enabled and the latest version of the Adobe Flash Player. If you do not have the latest version, please update Adobe Flash Player by downloading it here: &lt;a href="https://get.adobe.com/flashplayer/" title="Adobe Flash Player" target="_blank"&gt;https://get.adobe.com/flashplayer/&lt;/a&gt;]&lt;/span&gt;&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>13</revision>
+    <timemodified>1518120902</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="95" moduleid="370" modulename="label" contextid="631">
+  <label id="95">
+    <name>Course Objectives</name>
+    <intro>&lt;h4&gt;&lt;span style="font-size: large;" size="4"&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: small;"&gt;Course Objectives&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/h4&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1389308983</timemodified>
+  </label>
+</activity>

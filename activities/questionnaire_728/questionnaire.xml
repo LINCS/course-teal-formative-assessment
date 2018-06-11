@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="6" moduleid="728" modulename="questionnaire" contextid="1072">
+  <questionnaire id="6">
+    <course>12</course>
+    <name>Math Self-Assessment</name>
+    <intro>&lt;div style="text-align: center;"&gt; Please take the self-assessment below. &lt;br /&gt;&lt;br /&gt;After you complete and click &amp;quot;submit questionnaire&amp;quot; on the bottom of the page,&lt;br /&gt; you will be redirected to the answer key to check your answers. &lt;/div&gt;</intro>
+    <introformat>0</introformat>
+    <qtype>0</qtype>
+    <respondenttype>fullname</respondenttype>
+    <resp_eligible>all</resp_eligible>
+    <resp_view>1</resp_view>
+    <opendate>0</opendate>
+    <closedate>0</closedate>
+    <resume>0</resume>
+    <navigate>1</navigate>
+    <grade>0</grade>
+    <sid>6</sid>
+    <timemodified>1473688040</timemodified>
+    <completionsubmit>1</completionsubmit>
+    <autonum>3</autonum>
+    <surveys>
+      <survey id="6">
+        <name>Self-Assessment</name>
+        <owner>12</owner>
+        <realm>public</realm>
+        <status>0</status>
+        <title>Self-Assessment</title>
+        <email></email>
+        <subtitle></subtitle>
+        <info></info>
+        <theme></theme>
+        <thanks_page></thanks_page>
+        <thank_head>Answer Key</thank_head>
+        <thank_body>&lt;div style="text-align: center;"&gt;Thank you for completing this Questionnaire. Click on the following link to view the &lt;a title="Answer Key" href="@@PLUGINFILE@@/Formative%20Assessment%20Self-Assessment%20with%20Answers.pdf" target="_blank"&gt;&lt;span style="color: #0000ff;"&gt;Answer Key&lt;/span&gt;&lt;/a&gt; [PDF].&lt;/div&gt;
+&lt;div style="text-align: center;"&gt;[temporary window]&lt;/div&gt;</thank_body>
+        <feedbacksections>0</feedbacksections>
+        <feedbacknotes></feedbacknotes>
+        <feedbackscores>0</feedbackscores>
+        <chart_type></chart_type>
+        <questions>
+          <question id="90">
+            <survey_id>6</survey_id>
+            <name>#1</name>
+            <type_id>4</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>0</length>
+            <precise>0</precise>
+            <position>1</position>
+            <content>Formative assessment represents evidence-based...</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+              <quest_choice id="192">
+                <question_id>90</question_id>
+                <content>methods for short term evaluation</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="193">
+                <question_id>90</question_id>
+                <content>instructional decision making</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="194">
+                <question_id>90</question_id>
+                <content>assessment for program evaluation</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="195">
+                <question_id>90</question_id>
+                <content>research for assessment methodology</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+            </quest_choices>
+          </question>
+          <question id="91">
+            <survey_id>6</survey_id>
+            <name>#2</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>0</length>
+            <precise>0</precise>
+            <position>2</position>
+            <content>&lt;p&gt;List the four essential elements of formative assessment as noted in the fact sheet.&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="92">
+            <survey_id>6</survey_id>
+            <name>#3</name>
+            <type_id>5</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>1</length>
+            <precise>1</precise>
+            <position>3</position>
+            <content>Effective feedback is ...(select one)&lt;br /&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+              <quest_choice id="196">
+                <question_id>92</question_id>
+                <content>a. timely</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="197">
+                <question_id>92</question_id>
+                <content>b. specific</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="198">
+                <question_id>92</question_id>
+                <content>c. task-focused</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="199">
+                <question_id>92</question_id>
+                <content>d. a and b</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="200">
+                <question_id>92</question_id>
+                <content>e. b and c</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="201">
+                <question_id>92</question_id>
+                <content>f. a, b, and c</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+            </quest_choices>
+          </question>
+          <question id="93">
+            <survey_id>6</survey_id>
+            <name>#4</name>
+            <type_id>4</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>0</length>
+            <precise>0</precise>
+            <position>5</position>
+            <content>Students should develop the understanding, attitude, and expectation that ...</content>
+            <required>y</required>
+            <deleted>y</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+              <quest_choice id="202">
+                <question_id>93</question_id>
+                <content>revision and editing should be completed only after the paper is written</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="203">
+                <question_id>93</question_id>
+                <content>some people are simply not good reviewers</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="204">
+                <question_id>93</question_id>
+                <content>writing can always be improved</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="205">
+                <question_id>93</question_id>
+                <content>self-review is always better than peer review</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+            </quest_choices>
+          </question>
+          <question id="94">
+            <survey_id>6</survey_id>
+            <name>#5</name>
+            <type_id>5</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>3</length>
+            <precise>3</precise>
+            <position>5</position>
+            <content>Which skills (listed below) are evidenced in students' think alouds? (select 3).</content>
+            <required>y</required>
+            <deleted>y</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+              <quest_choice id="206">
+                <question_id>94</question_id>
+                <content>comprehension</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="207">
+                <question_id>94</question_id>
+                <content>global knowledge</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="208">
+                <question_id>94</question_id>
+                <content>content knowledge</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="209">
+                <question_id>94</question_id>
+                <content>questioning</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="210">
+                <question_id>94</question_id>
+                <content>evaluation</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+            </quest_choices>
+          </question>
+          <question id="95">
+            <survey_id>6</survey_id>
+            <name>#5</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>0</length>
+            <precise>0</precise>
+            <position>5</position>
+            <content>&lt;p&gt;Briefly describe a method for checking for group understanding after introducing a new concept.&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="96">
+            <survey_id>6</survey_id>
+            <name>#6</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>0</length>
+            <precise>0</precise>
+            <position>6</position>
+            <content>&lt;p&gt;Briefly describe a method for checking for group understanding from individuals within groups.&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="97">
+            <survey_id>6</survey_id>
+            <name>#7</name>
+            <type_id>4</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>0</length>
+            <precise>0</precise>
+            <position>7</position>
+            <content>To foster successful student-teacher conferencing, the teacher ...</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+              <quest_choice id="211">
+                <question_id>97</question_id>
+                <content>takes the lead throughout the discussion</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="212">
+                <question_id>97</question_id>
+                <content>knows the student's work</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="213">
+                <question_id>97</question_id>
+                <content>provides unlimited time is given for discussion</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="214">
+                <question_id>97</question_id>
+                <content>does not spend conference time in teachable moments</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+            </quest_choices>
+          </question>
+          <question id="98">
+            <survey_id>6</survey_id>
+            <name>#9</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>1</length>
+            <precise>2</precise>
+            <position>10</position>
+            <content>Formative assessment can include...</content>
+            <required>y</required>
+            <deleted>y</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="99">
+            <survey_id>6</survey_id>
+            <name>#9</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>0</length>
+            <precise>0</precise>
+            <position>9</position>
+            <content>&lt;p&gt;What three questions feedback can help students answer?&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="100">
+            <survey_id>6</survey_id>
+            <name>#11</name>
+            <type_id>4</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>0</length>
+            <precise>0</precise>
+            <position>10</position>
+            <content>When using rubrics consider that ...</content>
+            <required>y</required>
+            <deleted>y</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+              <quest_choice id="215">
+                <question_id>100</question_id>
+                <content>the student's reading score usually matches the writing score</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="216">
+                <question_id>100</question_id>
+                <content>all characteristics of writing (e.g., mechanics and content) should be graded</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="217">
+                <question_id>100</question_id>
+                <content>providing assistance from teachers, dictionaries, or translators is acceptable</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="218">
+                <question_id>100</question_id>
+                <content>it is better to underestimate a student's writing ability than to overestimate it</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+            </quest_choices>
+          </question>
+          <question id="101">
+            <survey_id>6</survey_id>
+            <name>#10</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>0</length>
+            <precise>0</precise>
+            <position>10</position>
+            <content>&lt;p&gt;What is the goal of formative assessment?&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="102">
+            <survey_id>6</survey_id>
+            <name>#8</name>
+            <type_id>4</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>0</length>
+            <precise>0</precise>
+            <position>8</position>
+            <content>Formative assessment can include...</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+              <quest_choice id="219">
+                <question_id>102</question_id>
+                <content>teacher observation</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="220">
+                <question_id>102</question_id>
+                <content>classroom discussion</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="221">
+                <question_id>102</question_id>
+                <content>analysis of student work</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="222">
+                <question_id>102</question_id>
+                <content>all of the above</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+            </quest_choices>
+          </question>
+          <question id="103">
+            <survey_id>6</survey_id>
+            <name>#3</name>
+            <type_id>5</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>1</length>
+            <precise>1</precise>
+            <position>11</position>
+            <content>Effective feedback is ...(select one)&lt;br /&gt;</content>
+            <required>y</required>
+            <deleted>y</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+              <quest_choice id="223">
+                <question_id>103</question_id>
+                <content>a. timely</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="224">
+                <question_id>103</question_id>
+                <content>b. specific</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="225">
+                <question_id>103</question_id>
+                <content>c. task-focused</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="226">
+                <question_id>103</question_id>
+                <content>a and b</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="227">
+                <question_id>103</question_id>
+                <content>b and c</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="228">
+                <question_id>103</question_id>
+                <content>a, b, and c</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+            </quest_choices>
+          </question>
+          <question id="104">
+            <survey_id>6</survey_id>
+            <name>What does D.E.N. stand for?</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>0</length>
+            <precise>0</precise>
+            <position>4</position>
+            <content>&lt;p&gt;What does D.E.N. stand for?&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+        </questions>
+        <fb_sections>
+        </fb_sections>
+      </survey>
+    </surveys>
+    <attempts>
+    </attempts>
+  </questionnaire>
+</activity>

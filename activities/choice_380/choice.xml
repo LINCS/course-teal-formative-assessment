@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="3" moduleid="380" modulename="choice" contextid="641">
+  <choice id="3">
+    <name>How much time do you spend giving students written feedback?</name>
+    <intro>&lt;p&gt;How much time do you spend &lt;span style="font-weight: bold;"&gt;each week &lt;/span&gt;giving your students feedback on their work?&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <publish>0</publish>
+    <showresults>1</showresults>
+    <display>0</display>
+    <allowupdate>1</allowupdate>
+    <showunanswered>0</showunanswered>
+    <limitanswers>0</limitanswers>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timemodified>1473687130</timemodified>
+    <completionsubmit>1</completionsubmit>
+    <options>
+      <option id="11">
+        <text>none - 10 minutes</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1473687130</timemodified>
+      </option>
+      <option id="12">
+        <text>11 - 20 minutes</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1473687130</timemodified>
+      </option>
+      <option id="13">
+        <text>21 - 30 minutes</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1473687130</timemodified>
+      </option>
+      <option id="14">
+        <text>30 - 60 minutes</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1473687130</timemodified>
+      </option>
+      <option id="15">
+        <text>more</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1473687130</timemodified>
+      </option>
+    </options>
+    <answers>
+    </answers>
+  </choice>
+</activity>
