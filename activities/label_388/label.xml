@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <activity id="100" moduleid="388" modulename="label" contextid="649">
   <label id="100">
-    <name>Remember that your goal statements need to be spec...</name>
-    <intro>&lt;p&gt;&lt;br /&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Remember that your goal statements need to be specific enough to ensure change in teaching practice. View the following resource to help you set specific and measurable goal statements. &lt;/span&gt;&lt;/p&gt;</intro>
+    <name>Goal statements need to be specific enough to ensu...</name>
+    <intro>&lt;p&gt;&lt;br /&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Goal statements need to be specific enough to ensure change in teaching practice. View the following resource to help you set specific and measurable goal statements. &lt;/span&gt;&lt;/p&gt;</intro>
     <introformat>1</introformat>
-    <timemodified>1380936829</timemodified>
+    <timemodified>1539800983</timemodified>
   </label>
 </activity>
